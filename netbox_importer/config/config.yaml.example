@@ -1,0 +1,3 @@
+api:
+  hostname: https://netbox.example.com:443
+  api_token: 1234qwer5678
